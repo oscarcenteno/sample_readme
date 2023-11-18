@@ -1,6 +1,4 @@
-# Requirements coverage for @api
-
-[Index](C:\code\uni-automation_main\unit\convertJsonToMd/index.md)
+# Requirements coverage
 
 | Module | Feature | Use case | Tests | Tags |
 |--------|---------|----------|-------|------|
