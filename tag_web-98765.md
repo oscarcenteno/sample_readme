@@ -1,6 +1,6 @@
 # Requirements coverage for web-98765
 
-[Index](index.md)
+[Go back to index](index.md)
 
 | Module | Feature | Use case | Tests | Tags |
 |--------|---------|----------|-------|------|
